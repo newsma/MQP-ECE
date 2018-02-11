@@ -1,21 +1,7 @@
 
 
 /*
-ADXL362_MotionActivatedSleep.ino for 
-Analog Devices ADXL362 - Micropower 3-axis accelerometer
-go to http://www.analog.com/ADXL362 for datasheet
-Arduino will "go to sleep" when circuit has been motionless for
-a short period of time.  Arduino will "wake-up" when moved.
-License: CC BY-SA 3.0: Creative Commons Share-alike 3.0. Feel free 
-to use and abuse this code however you'd like. If you find it useful
-please attribute, and SHARE-ALIKE!
-Created June 2012
-by Anne Mahaffey - hosted on http://annem.github.com/ADXL362
-Connect SCLK, MISO, MOSI, and CSB of ADXL362 to
-SCLK, MISO, MOSI, and DP 10 of Arduino 
-( See http://arduino.cc/en/Reference/SPI for details)
-Connect INT1 of ADXL362 to DP2 of Arduino
-( See http://arduino.cc/en/Reference/AttachInterrupt for details)
+
 */ 
 
 
